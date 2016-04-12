@@ -1,6 +1,6 @@
 <?php
 
-namespace base64Bundle\Tests\Controller;
+namespace images\base64ConverterBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
