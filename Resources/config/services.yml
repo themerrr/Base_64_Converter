@@ -1,0 +1,6 @@
+parameters:
+    base64.service.class: base64Bundle\service\base64Service
+services:
+     base64_converter:
+        class: %base64.service.class%
+        arguments: ['@service_container']
