@@ -1,5 +1,5 @@
 {
-  "name": "base64-converter",
+  "name": "base64-converter/images",
   "description": "convert image to base64,convert base64 to image",
   "keywords": ["convert,base64,image"],
   "license": "MIT",
