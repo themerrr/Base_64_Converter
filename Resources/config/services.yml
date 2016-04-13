@@ -1,5 +1,5 @@
 parameters:
-    base64.service.class: base64ConverterBundle\Services\base64Service
+    base64.service.class: images\base64ConverterBundle\Services\base64Service
 services:
      base64_converter:
         class: %base64.service.class%
