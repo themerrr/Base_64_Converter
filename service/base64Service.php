@@ -5,7 +5,7 @@
  * Date: 12/04/16
  * Time: 12:07 م
  */
-namespace base64Bundle\service;
+namespace base64ConverterBundle\Services;
 
     class base64Service
     {
